@@ -1,0 +1,14 @@
+com\progra\segurosbackend\logic\User.class
+com\progra\segurosbackend\JakartaRestConfiguration.class
+com\progra\segurosbackend\logic\Poliza.class
+com\progra\segurosbackend\data\RelDatabase.class
+com\progra\segurosbackend\logic\Client.class
+com\progra\segurosbackend\data\ClienteDao.class
+com\progra\segurosbackend\logic\Service.class
+com\progra\segurosbackend\data\PolizaDao.class
+com\progra\segurosbackend\resources\JakartaEE10Resource.class
+com\progra\segurosbackend\data\UsuarioDao.class
+com\progra\segurosbackend\data\ModeloDao.class
+com\progra\segurosbackend\logic\Marca.class
+com\progra\segurosbackend\data\MarcaDao.class
+com\progra\segurosbackend\logic\Modelo.class

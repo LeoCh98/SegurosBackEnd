@@ -10,7 +10,7 @@ import java.util.Objects;
 
 /**
  *
- * @author javir
+ * @author leoch
  */
 public class Client {
 

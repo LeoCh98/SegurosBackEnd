@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  *
- * @author javir
+ * @author leoch
  */
 public class User {
 
@@ -47,6 +47,16 @@ public class User {
 
     public void setTipo(int tipo) {
         this.tipo = tipo;
+    }
+
+    public String getRol() {
+        switch(this.tipo) {
+            case 0:
+                return "ADM";
+            case 1:
+                return "CLI";
+        }
+        return "";// Default
     }
 
     @Override
